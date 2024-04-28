@@ -1,6 +1,0 @@
-﻿{
-    "database": {
-        "type": "MySQL",
-        "connectionString": ""
-    }
-}
